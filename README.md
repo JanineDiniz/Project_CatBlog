@@ -1,7 +1,7 @@
 <h1 align="center"> Título </h1>
 
 <p align="center">
-Projeto do treinamento da Rocketseat para ensino de tecnologias WEB.
+Desafio do treinamento da Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -32,10 +32,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é uma site de galeria de fotos para estudo de grid, aspect-ratio, filters, transform e animations(keyframes).
+O projeto é um blog de gatos para estudo de display, unidade de medida flexível, variáveis, mobile first, cores HSL, animations(keyframes) e responsividade.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1256354844988182987). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1256354927622258124). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
