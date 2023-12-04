@@ -1,14 +1,14 @@
-<h1 align="center"> Título </h1>
+<h1 align="center"> Cat Blog </h1>
 
 <p align="center">
-Desafio do treinamento da Rocketseat para ensino de tecnologias WEB.
+Rocketseat training challenge for teaching WEB technologies.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Desafio do treinamento da Rocketseat para ensino de tecnologias WEB.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - Git e Github
@@ -32,10 +32,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é um blog de gatos para estudo de display, unidade de medida flexível, variáveis, mobile first, cores HSL, animations(keyframes) e responsividade.
+The project is a cat blog for studying display, flexible measurement units, variables, mobile first, HSL colors, animations (keyframes) and responsiveness.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1256354927622258124). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through[THIS LINK](https://www.figma.com/community/file/1256354927622258124). It is necessary to have an account[Figma](https://figma.com) to access it.
 
 ## :memo: Licença
